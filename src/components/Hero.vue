@@ -35,7 +35,7 @@
         prepend-icon="mdi-download"
         variant="outlined"
         text
-        href="../../public/Resume.pdf"
+        href="/Resume.pdf"
         >
         Download CV
         </v-btn>

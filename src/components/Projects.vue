@@ -3,7 +3,9 @@
     <v-row align="center" justify="center" class="pb-0">
       <v-col cols="8" class="pb-0">
         <h3 class="text-center projects-header">Projects</h3>
-        <p class="text-center pt-2 text-body-2 mb-0">I am always playing around with something cool, take a look for yourself.</p>
+        <p class="text-center pt-2 text-body-2 mb-0">
+          Showcasing completed projects with a focus on innovation and continuous learning.
+        </p>
       </v-col>
     </v-row>
     <v-row 
